@@ -34,3 +34,4 @@ def draw():
     image(img,0,0,x,x)
     if y==0:
         x+1
+a
