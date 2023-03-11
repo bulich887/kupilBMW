@@ -10,6 +10,9 @@ def setup():
         rotate(radians(5*x))
         # translate(-40*x,0)
         # rotate(radians(-5*x))
+        
+        
+        (11.03.2023(SUBBOTA))
 
         
 
